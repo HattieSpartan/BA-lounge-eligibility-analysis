@@ -1,0 +1,7 @@
+# Data is not included (see README)
+*.xlsx
+*.csv
+!results/*.csv
+!audit/*.csv
+.ipynb_checkpoints/
+__pycache__/
